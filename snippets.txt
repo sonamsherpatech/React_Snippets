@@ -1,3 +1,5 @@
+save it on the snippets of VSCode
+
 {
   "Print to console": {
     "prefix": "cl",
